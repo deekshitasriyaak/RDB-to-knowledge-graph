@@ -18,3 +18,8 @@ extending this approach by mapping relational databases to hyper-relational know
 which are better suited to represent the n-ary relationships found in relational models. If successful,
 the potential applications of this approach are vast. Our goal is to provide a proof of concept through
 this course project.
+
+
+### Dataset used
+Accenture Data Analytics and Visualization Virtual Experience - Social Buzz Content Analysis
+https://github.com/globalsmile/Social-Buzz-Content-Analysis
